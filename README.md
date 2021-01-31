@@ -1,1 +1,2 @@
-# Understanding-categorical-data
+Feature engineering is a crucial step in building a performant machine learning model. Understanding categorical variables and encoding those variables with right encoding techniques is of paramount importance during data cleaning and preparation stage. A survey published on Forbes says that Data preparation accounts for about 80% of the work of data scientists. Data scientists spend 60% of their time on cleaning and organizing data. 
+In this article, we will look at various encoding techniques in Python with examples to better understand how to transform categorical data to make it model ready.
